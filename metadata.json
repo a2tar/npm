@@ -1,0 +1,18 @@
+{
+  "name": "a2tar-npm",
+  "version": "0.1.0",
+  "summary": "NPM nodejs for ubuntu",
+  "author": "a2tar",
+  "description": "Npm module",
+  "dependencies": [
+    {
+      "name": "a2tar/nodejs",
+      "version_requirement": "\u003e\u003d 0.1.0"
+    }
+  ],
+  "types": [],
+  "checksums": {},
+  "source": "https://github.com/a2tar/npm.git",
+  "project_page": "https://github.com/a2tar/npm",
+  "license": "Apache License, Version 2.0"
+}
